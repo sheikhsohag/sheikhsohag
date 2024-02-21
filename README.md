@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md Sohag Ali
+### Hi 👋, I'm Md Sohag Ali
 #### A passionate Software Engineer
 ✒️✒️ I am a passionate programmer with a strong background with programming language C, C++, python, Data Structure and algorithm.
 
