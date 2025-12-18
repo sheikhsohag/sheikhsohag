@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Md Sohag Ali
 #### A passionate Software Engineer
-✒️✒️ I am a passionate programmer with a strong background with programming language C, C++, python, Data Structure and algorithm.
+✒️✒️ I am a passionate programmer with a strong background with programming language C, C++, python,PHP, Data Structure and algorithm.
 
-⚡️⚡️I am proficient in C, C++, python, Django, Django Rest Framework, HTML, CSS . My ability to quickly adapt to new technologies allows me to tackle complex problems efficiently.
+⚡️⚡️I am proficient in C, C++,PHP, Laravel, python, Django, Django Rest Framework, HTML, CSS . My ability to quickly adapt to new technologies allows me to tackle complex problems efficiently.
 
-Skills: HTML / CSS/JavaScript/C/C++/Python/Django/DRF/WEBSOCKET/Django Channels/web scraping/MySQL
+Skills: HTML / CSS/JavaScript/C/C++/PHP/Laravel/Python/Django/DRF/WEBSOCKET/Django Channels/MySQL/Docker
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Github Action 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Python, Django, DRF, Web Socket, Django Channels, Data Structure, Algorithms 
 - 📫 How to reach me: +8801517192064 
