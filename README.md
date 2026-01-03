@@ -8,7 +8,7 @@ Skills: HTML / CSS/JavaScript/C/C++/PHP/Laravel/Python/Django/DRF/WEBSOCKET/Djan
 
 - 🌱 I’m currently learning Github Action 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Python, Django, DRF, Web Socket, Django Channels, Data Structure, Algorithms 
+- 💬 Ask me about Laravel, Node, Docker,  CI/CD, Python, Django, DRF, Web Socket, Django Channels, Data Structure, Algorithms 
 - 📫 How to reach me: +8801517192064 
 - ⚡ Fun fact: Quick learner 
 
